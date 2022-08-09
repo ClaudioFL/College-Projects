@@ -1,0 +1,3 @@
+/Users/claudioflorio/Documents/Coding 1/AvengerApp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/claudioflorio/Documents/Coding 1/AvengerApp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/claudioflorio/Documents/Coding 1/AvengerApp/cmake-build-debug/CMakeFiles/AvengerApp.dir

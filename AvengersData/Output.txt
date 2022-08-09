@@ -1,0 +1,41 @@
+olmedafl@linprog6.cs.fsu.edu:~/COP3363/AvengerDataStruct>a.out
+Welcome to Avengers Data By Range Program
+A) Display Data
+B) Find Range with the largest number of Avengers who have died
+C) Find Range with the largest percentage of Avengers who are female 
+D) Quit 
+Select an option (A-D):A
+
+Range                   Num Females     Num Males       Num Died Once   Num Never Died Once
+           	    <=750               51              96              53              94              
+ > 750 and <=1500               6               8               8               6               
+> 1500 and <=2250               1               5               2               4               
+> 2250 and <=3000               0               2               2               0               
+> 3000 and <=3750               0               3               3               0               
+> 3750 and <=4500               0               1               1               0               
+A) Display Data
+B) Find Range with the largest number of Avengers who have died
+C) Find Range with the largest percentage of Avengers who are female 
+D) Quit 
+Select an option (A-D):B
+The range with the largest number of avengers who have died once is ...
+Range Number of Appearances:             <=750
+A) Display Data
+B) Find Range with the largest number of Avengers who have died
+C) Find Range with the largest percentage of Avengers who are female 
+D) Quit 
+Select an option (A-D):C
+The range with the largest percentage of avengers who are female is ...
+Range Number of Appearances:  > 750 and <=1500
+A) Display Data
+B) Find Range with the largest number of Avengers who have died
+C) Find Range with the largest percentage of Avengers who are female 
+D) Quit 
+Select an option (A-D):F
+A) Display Data
+B) Find Range with the largest number of Avengers who have died
+C) Find Range with the largest percentage of Avengers who are female 
+D) Quit 
+Select an option (A-D):D
+olmedafl@linprog6.cs.fsu.edu:~/COP3363/AvengerDataStruct>
+
